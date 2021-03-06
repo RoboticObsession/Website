@@ -1,0 +1,34 @@
+{
+  "Projects" : [
+    {
+      "Name" : "Steve Ballmer",
+      "Description" : "Steve Ballmer is the best discord bot for your server!",
+      "Url" : "https://steve.roboticobsession.xyz/",
+      "Logo" : "https://steve.roboticobsession.xyz/assets/BotLogo.png"
+    },
+    {
+      "Name" : "CatCatGo",
+      "Description" : "CatCatGo is an open source search engine, powered by the DuckDuckGo API",
+      "Url" : "https://catcatgo.xyz/",
+      "Logo" : "https://catcatgo.xyz/assets/mimi-index.png"
+    }
+  ],
+  "Skills" : [
+  {
+    "Name" : "JS",
+    "Percentage" : "70%"
+  },
+  {
+    "Name" : "HTML",
+    "Percentage" : "80%"
+  },
+  {
+    "Name" : "CSS",
+    "Percentage" : "40%"
+  },
+  {
+    "Name" : "PHP",
+    "Percentage" : "30%"
+  }
+  ]
+}
